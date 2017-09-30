@@ -8,7 +8,7 @@ public class FollowPlayer : MonoBehaviour
     public Transform Player;
     // 相対座標
     private Vector3 offset;
-/*
+
     private void Start()
     {
         // MainCamera と Player の相対距離を求める
@@ -20,7 +20,7 @@ public class FollowPlayer : MonoBehaviour
         // Camera の座標に Player の座標と offset 加算した値を代入する     
         GetComponent<Transform>().position = Player.position + offset;
     }
-*/
+
 /*
     void Start ()
     {

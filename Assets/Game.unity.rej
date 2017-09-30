@@ -1,0 +1,9 @@
+diff a/Assets/Game.unity b/Assets/Game.unity	(rejected hunks)
+@@ -1025,6 +1025,7 @@
+   - component: {fileID: 1668263338}
+   m_Layer: 0
+   m_Name: wall2
++  m_TagString: Untagged
+   m_Icon: {fileID: 0}
+   m_NavMeshLayer: 0
+   m_StaticEditorFlags: 0
